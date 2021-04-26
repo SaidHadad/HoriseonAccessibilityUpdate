@@ -60,9 +60,10 @@ p {
 
 /* end of header section */
 
-/* start of main section */
+/*---------------------- start of main section ------------------------------*/
 
-
+/* content container grouping search engine, onile reputation and social media
+containers */
 .content {
     width: 75%;
     display: inline-block;
@@ -93,16 +94,19 @@ p {
     font-size: 36px;
 }
 
+/* search engine and social media containers floated to the left side of the content container */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* online reputation floated to the right side of the content container */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* benefits container, grouping benefit lead, brand and cost containers */
 .benefits {
     margin-right: 20px;
     padding: 20px;
