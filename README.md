@@ -22,7 +22,7 @@ A marketing agency gave us an already elaborated web page, and the project asks 
 
 ## Code Examples
 Show examples of usage:
-'''html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,7 +35,7 @@ Show examples of usage:
     
 </body>
 </html>
-'''
+
 ## Features
 List of features ready and TODOs for future development
 * index.html section elements properly arranged.
